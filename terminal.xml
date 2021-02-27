@@ -1,7 +1,7 @@
 <application>
   <component name="TerminalOptionsProvider">
     <option name="myCopyOnSelection" value="true" />
-    <option name="myShellPath" value="&quot;cmd.exe&quot; /k &quot;&quot;%CMDER_ROOT%\vendor\init.bat&quot;&quot;" />
+    <option name="myShellPath" value="&quot;cmd.exe&quot; /k &quot;&quot;D:\cmder\vendor\init.bat&quot;&quot;" />
     <option name="myTabName" value="Local" />
   </component>
 </application>
