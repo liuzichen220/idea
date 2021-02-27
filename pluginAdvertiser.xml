@@ -2342,6 +2342,11 @@
                       <FeaturePluginData displayName="Jetty Server" pluginName="Jetty" pluginId="Jetty" />
                     </value>
                   </entry>
+                  <entry key="JettyRunner-By-GuiKeller">
+                    <value>
+                      <FeaturePluginData displayName="Jetty Runner" pluginName="IDEA Jetty Runner" pluginId="JettyRunner-GK" />
+                    </value>
+                  </entry>
                   <entry key="KotlinJavaScriptTestRunnerProtractor">
                     <value>
                       <FeaturePluginData displayName="Protractor (Kotlin)" pluginName="org.jetbrains.kotlin" pluginId="org.jetbrains.kotlin" />
