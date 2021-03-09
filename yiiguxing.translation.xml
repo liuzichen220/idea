@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="LoginCertifyConsumerImpl" />
       <item value="parameter" />
     </histories>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1614509019883" />
+    <option name="lastTrimTime" value="1615304558620" />
   </component>
 </application>
