@@ -948,6 +948,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.lcv">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="leetcode-editor" />
+              <option name="myPluginName" value="LeetCode Editor" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.less">
           <value>
             <plugin>
@@ -1857,6 +1865,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key=".lcv">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="leetcode-editor" />
+              <option name="myPluginName" value="LeetCode Editor" />
+            </plugin>
+          </value>
+        </entry>
         <entry key=".node-version">
           <value>
             <plugin>
@@ -2529,7 +2545,7 @@
                   </entry>
                   <entry key="JRebel">
                     <value>
-                      <FeaturePluginData displayName="JRebel" pluginName="JRebel and XRebel for IntelliJ" pluginId="JRebelPlugin" />
+                      <FeaturePluginData displayName="JRebel" pluginName="JRebel and XRebel" pluginId="JRebelPlugin" />
                     </value>
                   </entry>
                   <entry key="Spring">
