@@ -1,6 +1,6 @@
 <application>
   <component name="FileTypeManager" version="18">
-    <ignoreFiles list="*.iml;*.log;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.classpath;.git;.gitignore;.hg;.idea;.svn;CVS;__pycache__;_svn;logs;target;tomcat.8080;vssver.scc;vssver2.scc" />
+    <ignoreFiles list="*.iml;*.log;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.classpath;.git;.gitignore;.hg;.idea;.svn;CVS;__pycache__;_svn;log.root.path_IS_UNDEFINED;logs;target;tomcat.8080;vssver.scc;vssver2.scc" />
     <extensionMap>
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
